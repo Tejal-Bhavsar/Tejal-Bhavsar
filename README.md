@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React js and Firebase
+- 🔭 I’m currently working on React js and Ruby on Rails
+-  Started learning C# and unity 
 - 🌱 I’m currently learning UI/UX because of my intrest
 - 👯 I’m looking to collaborate on ...React js and firebase
 - 🤔 I’m looking for help with ...
