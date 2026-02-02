@@ -4,6 +4,7 @@ I am a Software Engineer and Graduate Student at UMBC with a passion for buildin
 
 🔭 What I'm working on
 Graduate Thesis: Running experiments on improving Semantic Embeddings (BERT/SBERT) in vector databases.
+I am currently learning GO lang.
 
 AcademiaConnect: A centralized hub for university research collaboration built with React, Django, and PostgreSQL.
 
