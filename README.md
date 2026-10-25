@@ -1,5 +1,3 @@
-Hi there! I'm Tejal 👋
-
 # Hey, I'm Tejal 👋
 
 I'm a software engineer who likes taking messy problems and turning them into things people can actually use.
